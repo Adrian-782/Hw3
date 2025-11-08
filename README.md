@@ -1,7 +1,5 @@
 # Hw3
 ## To compile
-g++ -o cache_class cache_class.cpp
-
 g++ -o cache_sim cache_sim.cpp
 
 ## To run
